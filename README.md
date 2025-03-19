@@ -1,2 +1,1 @@
-# PRODIGY_DS_05
-'ve shortened the README while keeping all essential details. Let me know if you need further refinements!
+This project analyzes NYC vehicle collisions using Kaggle data to identify accident trends based on weather conditions, time of day, and location. It involves data cleaning, preprocessing, and visualization to uncover key patterns. Findings highlight that adverse weather increases accident risk, peak hours see the highest crashes, and certain boroughs are more prone to accidents. These insights can help enhance road safety measures and traffic management strategies.
